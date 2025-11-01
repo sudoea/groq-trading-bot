@@ -1,0 +1,2 @@
+timestamp,symbol,signal,confidence,entry,tp,sl,lot,executed,result,notes
+2025-11-01T09:56:12.069500+00:00,BTCUSD.vx,SELL,70.0,109947.45,109569.13285714286,110199.66142857142,0.01,True,SUCCESS,"Ticket=411689065, Volume=0.01, Price=109947.04"
